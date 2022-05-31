@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+body { 
+    display: flex;
+    flex-direction: column;
+    margin: 15% 20% 0 20%;
+    text-align: center;
+} 
+
+button {
+    align-self: center;
+} 
